@@ -1,0 +1,24 @@
+ html,body {
+     padding :0 ;
+     margin :0;
+     height: 100%;
+ }
+ 
+ /*  input[type="Email"]{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+       
+input[type="Mot de passe"]{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top: 0px;  
+}
+button[type="button"]{
+    background-color: white;
+    color: black;
+
+}
+.body{
+    background-color: #283593;
+}*/
